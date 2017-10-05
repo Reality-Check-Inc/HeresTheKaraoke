@@ -1,6 +1,6 @@
 # ![Logo](http://heresthekaraoke.com/img/logo.png) [Here's The Karaoke](http://heresthekaraoke.com)
 #### Professional Karaoke Player for Windows
-Beginning of a fresh interpretation of the popular [PowerKaraoke.com Siglos professional karaoke player](http://www.powerkaraoke.com/src/prod_siglos-karaoke-professional.php) combined with some of the better features of [kjams.com kJams 2] (https://karaoke.kjams.com/products/kjams-2/).
+Beginning of a fresh interpretation of the popular [PowerKaraoke.com Siglos professional karaoke player](http://www.powerkaraoke.com/src/prod_siglos-karaoke-professional.php) combined with some of the better features of [kJams 2] (https://karaoke.kjams.com/products/kjams-2/).
 
 ## Plans
 Simple touch-screen oriented Karaoke application for home power singer and professional KJ.
